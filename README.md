@@ -37,9 +37,9 @@ I'm interested in building useful technology with a human purpose. My current wo
 
 ### What guides my work
 
-| Purpose | Craft | Progress |
-| :--- | :--- | :--- |
-| Build around problems that matter. | Make interfaces clear and approachable. | Share the work, learn, and keep improving. |
+- **Purpose:** build around problems that matter.
+- **Craft:** make interfaces clear and approachable.
+- **Progress:** share the work, learn, and keep improving.
 
 ---
 
