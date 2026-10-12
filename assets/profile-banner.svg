@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Minahil Ahmed — Building with purpose</title>
+  <desc id="desc">A navy banner with mint lettering and an abstract constellation of connected interface shapes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b172a"/><stop offset="1" stop-color="#172c40"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#96f4d7"/><stop offset="1" stop-color="#51b7ca"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b3d7e8" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="24" fill="url(#grid)"/>
+  <path d="M0 335H1280" stroke="#90eed1" stroke-opacity=".2"/>
+  <rect x="64" y="52" width="7" height="22" rx="3" fill="#96f4d7"/>
+  <text x="86" y="70" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="3" fill="#bcddd8">MINAHIL AHMED</text>
+  <text x="64" y="150" font-family="Segoe UI,Arial,sans-serif" font-size="60" font-weight="700" letter-spacing="-2" fill="#f1f6fb">Building with</text>
+  <text x="64" y="219" font-family="Segoe UI,Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-2" fill="#96f4d7">purpose.</text>
+  <text x="66" y="272" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#b1c4d4">Web experiences. Thoughtful design. Social impact.</text>
+  <text x="66" y="315" font-family="Consolas,monospace" font-size="14" letter-spacing="1" fill="#82a3ba">github.com/minahil1-1</text>
+  <circle cx="1020" cy="180" r="126" fill="none" stroke="#5ca9ae" stroke-opacity=".22"/>
+  <circle cx="1020" cy="180" r="91" fill="none" stroke="#5ca9ae" stroke-opacity=".16" stroke-dasharray="4 9"/>
+  <path d="M910 117L1097 102L1148 248L965 271Z" fill="none" stroke="#70d6c4" stroke-opacity=".55" stroke-width="2"/>
+  <rect x="913" y="110" width="180" height="129" rx="14" fill="#172f44" stroke="#547d91"/>
+  <path d="M913 143H1093" stroke="#547d91"/>
+  <circle cx="933" cy="127" r="4" fill="#96f4d7"/><circle cx="947" cy="127" r="4" fill="#70bfc4"/><circle cx="961" cy="127" r="4" fill="#597a93"/>
+  <path d="M952 171L936 185L952 199M1052 171L1068 185L1052 199M1019 164L993 207" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="1081" y="81" width="34" height="34" rx="9" fill="#96f4d7"/>
+  <path d="M1090 98L1095 103L1106 91" stroke="#143442" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1148" cy="248" r="9" fill="#96f4d7"/>
+  <circle cx="965" cy="271" r="6" fill="#74c2d0"/>
+  <circle cx="910" cy="117" r="6" fill="#74c2d0"/>
+  <text x="938" y="322" font-family="Consolas,monospace" font-size="13" letter-spacing="2" fill="#8ab3c3">IDEA → BUILD → IMPROVE</text>
+</svg>

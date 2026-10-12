@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="240" viewBox="0 0 1280 240" role="img" aria-labelledby="title desc">
+  <title id="title">OrphanGuard — Interactive care coordination concept</title>
+  <desc id="desc">A navy project card with a mint abstract shield, the OrphanGuard name, and an invitation to explore the project.</desc>
+  <rect x="1" y="1" width="1278" height="238" rx="20" fill="#102438" stroke="#36566d" stroke-width="2"/>
+  <rect x="45" y="53" width="132" height="132" rx="28" fill="#193b4a"/>
+  <path d="M111 76L148 90V118C148 144 130 159 111 170C92 159 74 144 74 118V90Z" fill="none" stroke="#96f4d7" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M92 121L105 134L132 105" fill="none" stroke="#96f4d7" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="212" y="65" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="3" fill="#96f4d7">FEATURED PROJECT / 01</text>
+  <text x="210" y="123" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="-1" fill="#f1f6fb">OrphanGuard</text>
+  <text x="212" y="165" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#b5cbd9">An interactive care coordination concept.</text>
+  <text x="212" y="201" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#89a9bc">Pitch overview · Dashboard prototype · Synthetic sample data</text>
+  <rect x="1010" y="88" width="211" height="56" rx="28" fill="#96f4d7"/>
+  <text x="1040" y="123" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#102438">Explore project ↗</text>
+</svg>
