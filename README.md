@@ -19,7 +19,7 @@
 
 I'm interested in building useful technology with a human purpose. My current work explores how interactive web interfaces can make care coordination and review workflows easier to understand.
 
-- **Building:** OrphanGuard, an interactive pitch and dashboard prototype.
+- **Building:** AsiaPulse, an economic research workspace, and OrphanGuard, an interactive care-coordination prototype.
 - **Exploring:** accessible interfaces, thoughtful product design, and technology for social good.
 - **My approach:** start with a meaningful problem, make the experience clear, and improve it through iteration.
 
@@ -34,6 +34,14 @@ I'm interested in building useful technology with a human purpose. My current wo
 `JavaScript` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `Node.js` &nbsp; `Express` &nbsp; `WebSockets`
 
 *Prototype status: illustrative, in-memory data; no connected AI model or operational care service.*
+
+### AsiaPulse AI
+
+**[Open AsiaPulse](https://asiapulse-production.up.railway.app/)** — an English-language economic research workspace with source-linked findings, country comparisons, transparent forecast evaluation, scenario exploration, and editable briefs.
+
+`React` · `FastAPI` · `Python` · `Qwen` · `Railway`
+
+*Competition prototype: annual source snapshots, inspectable model baselines, and explicit assumptions. Historical accuracy does not guarantee future results.*
 
 ### What guides my work
 
